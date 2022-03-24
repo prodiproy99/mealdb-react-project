@@ -1,0 +1,14 @@
+.header{
+    background-color: rgba(74, 231, 69, 0.829);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    margin-right: 60px;
+
+}
